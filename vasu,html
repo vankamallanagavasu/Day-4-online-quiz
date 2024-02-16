@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .quiz-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: linear-gradient(rgb(255, 255, 255),rgb(169, 215, 243),rgb(255, 255, 255),rgb(132, 251, 132));
+    border-radius: 25px;
+    border: 2px solid black;
+}
+    </style>
+</head>
+<body>
+    <div class="quiz-container">
+        <h1><u>Online Quiz Result :</h1></u></h1>
+        <div class="question">
+            <h2><u>Top Scorer :</u>10/10<i> vasu</i></h2>
+            <h3>hime tej : 9/10</h3>
+            <h3>srikanth : 9/10</h3>
+            <h3>nagaraju : 8/10</h3>
+    
+        </div>
+</body>
+</html>
